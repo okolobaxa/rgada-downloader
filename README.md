@@ -2,7 +2,7 @@
 
 Консольное приложение для скачивания архивных материалов с сайта РГАДА (Российского государственного архива древних актов)
 
-![screenshoot](https://raw.githubusercontent.com/okolobaxa/cgamos-downloader/master/screenshoot.png)
+![screenshoot](https://raw.githubusercontent.com/okolobaxa/rgada-downloader/main/screenshoot.png)
 
 * Windows 7 и выше https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0/RgadaDownloader.1.0.0.win-x64.zip
 * MacOS https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0/RgadaDownloader.1.0.0.osx-x64.tar.gz
