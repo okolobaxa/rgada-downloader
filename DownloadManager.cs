@@ -32,7 +32,7 @@ public class DownloadManager
                 var i = 0;
                 foreach (var (url, fileName) in downloadInfo.Links)
                 {
-                    var path = Path.Combine(downloadInfo.Name, fileName);
+                    var path = Path.Combine(downloadInfo.Name, FixFileName(fileName));
                     i++;
                     var progress = (double) 100 * i / downloadInfo.Links.Count;
 
@@ -96,5 +96,10 @@ public class DownloadManager
                     progressBar.Value = progress;
                 }
             });
+    }
+
+    private static string FixFileName(string fileName)
+    {
+        return fileName.Replace(".zif", ".tiff");
     }
 }
