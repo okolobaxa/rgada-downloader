@@ -4,8 +4,8 @@
 
 ![screenshoot](https://raw.githubusercontent.com/okolobaxa/rgada-downloader/main/screenshoot.png)
 
-* Windows 8 и выше https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0/RgadaDownloader.1.0.1.win-x64.zip
-* MacOS https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0/RgadaDownloader.1.0.1.osx-x64.tar.gz
+* Windows 8 и выше https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0.1/RgadaDownloader.1.0.1.win-x64.zip
+* MacOS https://github.com/okolobaxa/rgada-downloader/releases/download/v1.0.1/RgadaDownloader.1.0.1.osx-x64.tar.gz
 
 ### Инструкция
 * Скачиваем нужную версию программы, распаковываем. Для Mac OS смотрите дополнительные шаги в конце
