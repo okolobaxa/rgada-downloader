@@ -7,7 +7,7 @@ project = "RgadaDownloader.csproj"
 configuration = "Release"
 
 [msbuild.properties]
-PublishTrimmed = false
+PublishTrimmed = true
 PublishSingleFile = true
 SelfContained = true
 
